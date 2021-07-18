@@ -1,0 +1,16 @@
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\MiPrimeraConsola.exe
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\MiPrimeraConsola.deps.json
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\MiPrimeraConsola.runtimeconfig.json
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\MiPrimeraConsola.runtimeconfig.dev.json
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\MiPrimeraConsola.dll
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\ref\MiPrimeraConsola.dll
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\bin\Debug\net5.0\MiPrimeraConsola.pdb
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.csproj.AssemblyReference.cache
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.AssemblyInfoInputs.cache
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.AssemblyInfo.cs
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.csproj.CoreCompileInputs.cache
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.dll
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\ref\MiPrimeraConsola.dll
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.pdb
+C:\Programacion visual\Consola2\MiPrimeraConsola\MiPrimeraConsola\MiPrimeraConsola\obj\Debug\net5.0\MiPrimeraConsola.genruntimeconfig.cache
